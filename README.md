@@ -22,7 +22,7 @@ A Minecraft Forge mod that gives you a **random set of gear and tools every 15 s
 
 ## 💾 Installation
 
-1. Download the latest build from the [Releases](https://github.com/leslie121224/chaosgear/releases) tab
+1. Download the latest build from the [Releases](https://github.com/Leslie121224/minecraft-chaosgear/releases)) tab
 2. Place the `.jar` file into your Minecraft `mods` folder
 3. Launch Minecraft with Forge 1.21.4
 
